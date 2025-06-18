@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtualenv
+venv/
+.env/
+*.env
+
+# Data
+*.json
+!app/chunked_embeddings.json
